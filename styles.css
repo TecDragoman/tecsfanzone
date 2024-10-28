@@ -1,0 +1,140 @@
+.links {
+    
+    display: block;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: 3px 1px black;
+}
+
+.intro {
+    
+    display: block;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    text-align: center;
+    color: antiquewhite;
+    text-shadow: 3px 1px black;
+    
+}
+
+.list {
+
+    display: block;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    text-align: left;
+    color: antiquewhite;
+    text-shadow: 3px 1px black;
+    }
+
+
+
+.pic {
+    
+    display: block;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    text-align: center;
+    margin: 30px;
+    text-shadow: 3px 1px black;
+}
+
+
+
+.heading {
+    
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    text-shadow: 3px 1px black;
+    }
+
+
+body {
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    background-image: url("https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/TecDragoman/phpamPnpl.jpg");
+    background-size: cover;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    text-shadow: 3px 1px black;
+    font-style: normal;
+}
+
+button {
+    background: transparent;
+    font-size: 26px;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    color: antiquewhite;
+    border-color: antiquewhite;
+    text-shadow: 3px 1px black;
+}
+
+.item {
+    text-align: center;
+    border: 2px solid black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: smaller;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    color: antiquewhite;
+    text-shadow: 3px 1px black;
+}
+
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    text-shadow: 3px 1px black;
+}
+
+.ps {
+    display: block;
+    color: antiquewhite;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    font-family: "Oxanium", serif;
+    font-optical-sizing: auto;
+    font-weight: 600px;
+    font-style: normal;
+    text-shadow: 3px 1px black;
+}
